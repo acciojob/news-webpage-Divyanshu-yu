@@ -31,7 +31,7 @@ body{
 }
 .bart{
 	display:flex;
-	justify-content:space-between
+	justify-content:space-between;
 }
 .pictorial-news-section{
 	text-align:center;
